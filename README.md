@@ -31,3 +31,4 @@
 [深度剖析Pinterest的视觉搜索（Visual Search at Pinterest）](http://coffee.pmcaff.com/article/13402)
 <br/>
 <br/>
+[【市场环境分析】经典三大黄金模型（PEST、波特五力、SWOT）](http://coffee.pmcaff.com/article/13745)
