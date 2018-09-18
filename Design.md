@@ -9,15 +9,15 @@
 3. 简单的设计，就是最好的设计。（Simple is best）
 
 <br/>
-[排版六原则 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/six_principles_of_layout_design.html)
+-[排版六原则 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/six_principles_of_layout_design.html)
 <br/>
-[网页设计的12种颜色](http://www.ruanyifeng.com/blog/2010/09/12_colors_used_in_web_design.html)
+-[网页设计的12种颜色](http://www.ruanyifeng.com/blog/2010/09/12_colors_used_in_web_design.html)
 <br/>
-[字体笔记 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2008/06/typography_notes.html)
+-[字体笔记 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2008/06/typography_notes.html)
 <br/>
-[写给设计师看的数据知识](http://dwz.cn/Gbj3Ai9c)
+-[写给设计师看的数据知识](http://dwz.cn/Gbj3Ai9c)
 <br/>
 <br/>
-[设计界的尼尔森十大可用性原则](http://dwz.cn/jipoCdPb)
+-[设计界的尼尔森十大可用性原则](http://dwz.cn/jipoCdPb)
 <br/>
 <br/>
