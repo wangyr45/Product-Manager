@@ -32,3 +32,8 @@
 <br/>
 <br/>
 [【市场环境分析】经典三大黄金模型（PEST、波特五力、SWOT）](http://coffee.pmcaff.com/article/13745)
+<br/>
+<br/>
+[O2O外卖产品分析 | 美团外卖&饿了么&百度外卖竞品分析报告](http://coffee.pmcaff.com/article/19136)
+<br/>
+<br/>
