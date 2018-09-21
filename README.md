@@ -37,3 +37,15 @@
 [O2O外卖产品分析 | 美团外卖&饿了么&百度外卖竞品分析报告](http://coffee.pmcaff.com/article/19136)
 <br/>
 <br/>
+[搭建自己的成长模型](http://coffee.pmcaff.com/article/10654)
+<br/>
+<br/>
+[【AR最全干货及资料】设计AR产品，你一定要看的总结](http://coffee.pmcaff.com/article/875767906021504/pmcaff?utm_source=forum&from=profile)
+<br/>
+<br/>
+[一张图讲清楚产品架构，手把手教你画产品框架图](http://coffee.pmcaff.com/article/10789)
+<br/>
+<br/>
+[三招两式讲需求，看完你们也懂需求了](http://coffee.pmcaff.com/article/9751)
+<br/>
+<br/>
