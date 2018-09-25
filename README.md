@@ -1,6 +1,10 @@
 # Good-article-in-the-product-manager-community
 社区中好的文章整理，方便查看与交流
 
+
+[写给想转行成产品经理的迷茫孩子们](http://coffee.pmcaff.com/article/1473850613441664/pmcaff?utm_source=forum)
+<br/>
+<br/>
 [浅谈产品生态的力量](http://coffee.pmcaff.com/article/12210)
 <br/>
 <br/>
