@@ -53,3 +53,9 @@
 [三招两式讲需求，看完你们也懂需求了](http://coffee.pmcaff.com/article/9751)
 <br/>
 <br/>
+[互联网金融支付基础知识](http://www.woshipm.com/it/538375.html)
+<br/>
+<br/>
+[3个最基础的APP技术框架](http://www.woshipm.com/pmd/240656.html)
+<br/>
+<br/>
