@@ -59,3 +59,6 @@
 [3个最基础的APP技术框架](http://www.woshipm.com/pmd/240656.html)
 <br/>
 <br/>
+[一张图讲清楚产品架构，手把手教你画产品框架图](http://coffee.pmcaff.com/article/10789)
+<br/>
+<br/>
