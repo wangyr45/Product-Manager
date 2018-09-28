@@ -1,5 +1,6 @@
 # Good-article-in-the-product-manager-community
-社区中好的文章整理，方便查看与交流
+
+自学整理，逐步完善。纯纯的小白~
 
 
 | 仓库内容分类 |
