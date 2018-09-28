@@ -62,3 +62,6 @@
 [一张图讲清楚产品架构，手把手教你画产品框架图](http://coffee.pmcaff.com/article/10789)
 <br/>
 <br/>
+[如何做好用户关系管理型产品（CRM）？](http://www.woshipm.com/it/1442668.html)
+<br/>
+<br/>
