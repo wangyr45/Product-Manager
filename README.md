@@ -1,6 +1,8 @@
 # Good-article-in-the-product-manager-community
 
-自学整理，逐步完善。纯纯的小白~
+>自学整理，逐步完善。纯纯的小白~
+<br/>
+<br/>
 
 
 | 仓库内容分类 |
