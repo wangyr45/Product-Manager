@@ -74,3 +74,6 @@
 [不搭建用户生命周期的产品都是耍流氓](http://www.ipmtalk.com/article-detail/365.html)
 <br/>
 <br/>
+[转型AI产品经理需要掌握的硬知识（一）：AI产品经理能力模型和常见AI概念梳理](http://coffee.pmcaff.com/article/1163514880930944/pmcaff?utm_source=search)
+<br/>
+<br/>
