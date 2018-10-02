@@ -71,3 +71,6 @@
 [产品的生老命死--项目管理](http://coffee.pmcaff.com/article/1301799229863040/pmcaff?utm_source=forum)
 <br/>
 <br/>
+[不搭建用户生命周期的产品都是耍流氓](http://www.ipmtalk.com/article-detail/365.html)
+<br/>
+<br/>
