@@ -47,8 +47,39 @@
 [【AR最全干货及资料】设计AR产品，你一定要看的总结](http://coffee.pmcaff.com/article/875767906021504/pmcaff?utm_source=forum&from=profile)
 <br/>
 <br/>
+[互联网金融支付基础知识](http://www.woshipm.com/it/538375.html)
+<br/>
+<br/>
+[【互联网广告】-在线广告发展历史](http://coffee.pmcaff.com/article/1481419025778816/pmcaff?utm_source=forum)
+<br/>
+<br/>
+[【原创干货】关于支付渠道的那些事儿！](http://coffee.pmcaff.com/article/12793)
+<br/>
+<br/>
+
+
+## PM需求分析
+
+------
+
+[三招两式讲需求，看完你们也懂需求了](http://coffee.pmcaff.com/article/9751)
+<br/>
+<br/>
+
+
+## PM竞品分析文章
+
+-----
+
+[O2O外卖产品分析 | 美团外卖&饿了么&百度外卖竞品分析报告](http://coffee.pmcaff.com/article/19136)
+<br/>
+<br/>
+
 
 ## PM分析文章
+[【市场环境分析】经典三大黄金模型（PEST、波特五力、SWOT）](http://coffee.pmcaff.com/article/13745)
+<br/>
+<br/>
 [从智能硬件产品角度谈谈共享单车](http://coffee.pmcaff.com/article/4408)
 <br/>
 <br/>
@@ -58,22 +89,7 @@
 [深度剖析Pinterest的视觉搜索（Visual Search at Pinterest）](http://coffee.pmcaff.com/article/13402)
 <br/>
 <br/>
-[【市场环境分析】经典三大黄金模型（PEST、波特五力、SWOT）](http://coffee.pmcaff.com/article/13745)
-<br/>
-<br/>
-[O2O外卖产品分析 | 美团外卖&饿了么&百度外卖竞品分析报告](http://coffee.pmcaff.com/article/19136)
-<br/>
-<br/>
 [【深度长文】在不可描述的网站上打广告是一种神马体验？](http://coffee.pmcaff.com/article/12512)
-<br/>
-<br/>
-[【原创干货】关于支付渠道的那些事儿！](http://coffee.pmcaff.com/article/12793)
-<br/>
-<br/>
-[三招两式讲需求，看完你们也懂需求了](http://coffee.pmcaff.com/article/9751)
-<br/>
-<br/>
-[互联网金融支付基础知识](http://www.woshipm.com/it/538375.html)
 <br/>
 <br/>
 [3个最基础的APP技术框架](http://www.woshipm.com/pmd/240656.html)
@@ -82,8 +98,6 @@
 [如何做好用户关系管理型产品（CRM）？](http://www.woshipm.com/it/1442668.html)
 <br/>
 <br/>
-[【互联网广告】-在线广告发展历史](http://coffee.pmcaff.com/article/1481419025778816/pmcaff?utm_source=forum)
-<br/>
-<br/>
+
 
 
