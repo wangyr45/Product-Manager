@@ -32,6 +32,9 @@
 
 -----
 
+[以今日头条为例，详述数据思维驱动产品设计的方法论](http://coffee.pmcaff.com/article/14092)
+<br/>
+<br/>
 [用最简单的图文带你看懂区块链](http://coffee.pmcaff.com/article/13060) 提供给想稍微了解区块链的小白看看，可以说是十分形象易懂了。
 <br/>
 <br/>
@@ -56,7 +59,9 @@
 [【原创干货】关于支付渠道的那些事儿！](http://coffee.pmcaff.com/article/12793)
 <br/>
 <br/>
-
+[深度报告 | AI新职位“人工智能训练师”](http://coffee.pmcaff.com/article/14087)
+<br/>
+<br/>
 
 ## PM需求分析
 
