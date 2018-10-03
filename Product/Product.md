@@ -41,6 +41,9 @@
 [一篇文章了解深度学习--产品经理了解人工智能必读（基础篇）](http://coffee.pmcaff.com/article/13742)
 <br/>
 <br/>
+[转型AI产品经理，原来不需要学那么深的算法和数学模型](http://coffee.pmcaff.com/article/12445)
+<br/>
+<br/>
 [ AI产品经理需要了解的语音交互评价指标](http://coffee.pmcaff.com/article/12251)
 <br/>
 <br/>
@@ -62,6 +65,10 @@
 [深度报告 | AI新职位“人工智能训练师”](http://coffee.pmcaff.com/article/14087)
 <br/>
 <br/>
+[一文读懂App技术框架，让你不再为设计烦恼](http://coffee.pmcaff.com/article/14130)
+<br/>
+<br/>
+
 
 ## PM需求分析
 
