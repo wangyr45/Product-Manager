@@ -5,6 +5,11 @@
 
 --------
 
+[[写给想转行成产品经理的迷茫孩子们](http://coffee.pmcaff.com/article/12591)
+<br/>
+<br/>](http://coffee.pmcaff.com/article/1473850613441664/pmcaff?utm_source=forum)
+<br/>
+<br/>
 [写给想转行成产品经理的迷茫孩子们](http://coffee.pmcaff.com/article/1473850613441664/pmcaff?utm_source=forum)
 <br/>
 <br/>
@@ -101,6 +106,9 @@
 
 
 ## PM分析文章
+[利用驱动力，怎样打造让人爱不释手的产品？](http://coffee.pmcaff.com/article/14283)
+<br/>
+<br/>
 [【市场环境分析】经典三大黄金模型（PEST、波特五力、SWOT）](http://coffee.pmcaff.com/article/13745)
 <br/>
 <br/>
