@@ -85,6 +85,21 @@
 
 
 ## PM数据分析
+
+---------
+
+[数据分析（一）：数据统计工具与常用的核心数据指标](http://coffee.pmcaff.com/article/2000000000008767/pmcaff?utm_source=search)
+<br/>
+<br/>
+[数据分析（二）：数据分析六部曲](http://coffee.pmcaff.com/article/2000000000008669/pmcaff?utm_source=search)
+<br/>
+<br/>
+[数据分析（三）:建立数据分析框架的思路和方法](http://coffee.pmcaff.com/article/2000000000008803/pmcaff?utm_source=search)
+<br/>
+<br/>
+[数据分析（四）：数据分析的思维和方法](http://coffee.pmcaff.com/article/2000000000008814/pmcaff?utm_source=search)
+<br/>
+<br/>
 [数据分析](http://coffee.pmcaff.com/article/1111652454878336/pmcaff?utm_source=search)
 <br/>
 <br/>
