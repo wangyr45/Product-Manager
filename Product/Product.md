@@ -1,8 +1,16 @@
 # Good-article-in-the-product-manager-community
 社区中好的文章整理，方便查看与交流
 
-## PM成长之路
+## 产品思维
+--------
+[马化腾：想做出一个好产品？你必须先知道这7点](https://mp.weixin.qq.com/s/SYZEmYRJdDoH85MK8Y2sag)
+<br/>
+<br/>
+[腾讯Tony：如何避免好产品老化？](https://mp.weixin.qq.com/s/60rSRlWXhGBEjSVkyE_QCw)
+<br/>
+<br/>
 
+## PM成长之路
 --------
 
 [[写给想转行成产品经理的迷茫孩子们](http://coffee.pmcaff.com/article/12591)
