@@ -3,8 +3,12 @@
 ---------
 
 ## 运营体系
-
 ---------
+
+[5千字运营干货让你成为运营高手](https://mp.weixin.qq.com/s/YWPHwZj97wLhxgf3pHgwsQ)
+<br/>
+<br/>
+
 
 ## 用户运营
 
