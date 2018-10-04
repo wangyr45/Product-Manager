@@ -28,9 +28,6 @@
 [一张图讲清楚产品架构，手把手教你画产品框架图](http://coffee.pmcaff.com/article/10789)
 <br/>
 <br/>
-[一张图讲清楚产品架构，手把手教你画产品框架图](http://coffee.pmcaff.com/article/10789)
-<br/>
-<br/>
 
 
 ## PM领域了解文章
