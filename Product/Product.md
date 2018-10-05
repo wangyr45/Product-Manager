@@ -87,6 +87,9 @@
 [三招两式讲需求，看完你们也懂需求了](http://coffee.pmcaff.com/article/9751)
 <br/>
 <br/>
+[产品经理如何基于需求迭代产品（上篇）：需求调研的四个步骤](http://coffee.pmcaff.com/article/12845)
+<br/>
+<br/>
 
 
 ## PM数据分析
