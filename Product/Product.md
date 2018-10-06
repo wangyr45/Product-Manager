@@ -78,6 +78,9 @@
 [一文读懂App技术框架，让你不再为设计烦恼](http://coffee.pmcaff.com/article/14130)
 <br/>
 <br/>
+[聊聊产品经理是如何确定核心用户、用户建模和场景的|用户建模|场景分析|](http://www.niupm.com/%E8%81%8A%E8%81%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%98%AF%E5%A6%82%E4%BD%95%E7%A1%AE%E5%AE%9A%E6%A0%B8%E5%BF%83%E7%94%A8%E6%88%B7%E3%80%81%E7%94%A8%E6%88%B7%E5%BB%BA%E6%A8%A1%E5%92%8C%E5%9C%BA/)
+<br/>
+<br/>
 
 
 ## PM需求分析
