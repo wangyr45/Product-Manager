@@ -198,6 +198,9 @@
 [如何做好用户关系管理型产品（CRM）？](http://www.woshipm.com/it/1442668.html)
 <br/>
 <br/>
+[一年之后，再看抖音丨抖音完整分析报告](http://www.woshipm.com/evaluating/1480467.html)
+<br/>
+<br/>
 
 
 
