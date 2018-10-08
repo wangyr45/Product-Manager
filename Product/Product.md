@@ -201,6 +201,13 @@
 [一年之后，再看抖音丨抖音完整分析报告](http://www.woshipm.com/evaluating/1480467.html)
 <br/>
 <br/>
+[扇贝单词产品分析报告](http://www.woshipm.com/evaluating/1453612.html)
+<br/>
+<br/>
+[从社交维度对比，微信和QQ有何不同？](http://www.woshipm.com/evaluating/1401674.html)
+<br/>
+<br/>
+
 
 
 
