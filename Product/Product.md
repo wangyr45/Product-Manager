@@ -171,6 +171,9 @@
 [系列篇-如何画出专业的原型图（下）](http://coffee.pmcaff.com/article/1140312156599424/pmcaff?utm_source=search)
 <br/>
 <br/>
+[【干货】用Axure输出高质量的PRD](http://www.ipmtalk.com/article-detail/245.html)
+<br/>
+<br/>
 
 
 ## PM分析文章
