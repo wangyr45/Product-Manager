@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-
+<div align="center">
 | 仓库内容分类 |
 | :------: |
 | ★★★★★[产品学习笔记](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Study%20notes/Menu.md) |
@@ -16,3 +16,4 @@
 |       ★★[设计类文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Design.md) |
 |       ★★[心理学文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/psychology.md) |
 
+</div>
