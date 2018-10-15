@@ -13,7 +13,7 @@
 |  ★★★★[运营文章](https://github.com/wangyr45/Product-Manager/blob/master/Operation.md) |
 |   ★★★★[文档模板工具](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Document/document.md) |
 |   ★★★★[社区分类文章](https://github.com/wangyr45/Product-Manager/tree/master/Classification%20of%20articles) |
-|     ★★★[~~社区优秀文章~~(迁移)](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Product/Product.md) |
+|     ★★★[~~社区优秀文章~~(迁移至“社区分类文章”)](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Product/Product.md) |
 |       ★★[设计类文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Design.md) |
 |       ★★[心理学文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/psychology.md) |
 
