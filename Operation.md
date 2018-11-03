@@ -8,6 +8,9 @@
 [5千字运营干货让你成为运营高手](https://mp.weixin.qq.com/s/YWPHwZj97wLhxgf3pHgwsQ)
 <br/>
 <br/>
+[APP如何推广](https://www.pmyes.com/thread-1059.htm)
+<br/>
+<br/>
 
 
 ## 用户运营
