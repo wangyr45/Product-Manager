@@ -6,11 +6,7 @@
 ---------
 
 - [5千字运营干货让你成为运营高手](https://mp.weixin.qq.com/s/YWPHwZj97wLhxgf3pHgwsQ)
-<br/>
-
 - [APP如何推广](https://www.pmyes.com/thread-1059.htm)
-<br/>
-
 - [史上最全的APP运营推广方案~](https://mp.weixin.qq.com/s/lIvJppc1ksUtvuMt_2Jrjg?)
 <br/>
 - [10张PPT干货，教你写出一流的文案](https://mp.weixin.qq.com/s/hZXqdT4McInqrnvzJVPJ7A?)
