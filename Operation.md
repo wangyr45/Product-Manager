@@ -8,17 +8,11 @@
 - [5千字运营干货让你成为运营高手](https://mp.weixin.qq.com/s/YWPHwZj97wLhxgf3pHgwsQ)
 - [APP如何推广](https://www.pmyes.com/thread-1059.htm)
 - [史上最全的APP运营推广方案~](https://mp.weixin.qq.com/s/lIvJppc1ksUtvuMt_2Jrjg?)
-<br/>
 - [10张PPT干货，教你写出一流的文案](https://mp.weixin.qq.com/s/hZXqdT4McInqrnvzJVPJ7A?)
-<br/>
 - [用户破3亿，独角兽网易云音乐是如何运营的](https://mp.weixin.qq.com/s/eNMj_IEZN092eYmq5pTTJg?)
-<br/>
 - [猫眼电影UGC的运营思路、策略和措施](https://mp.weixin.qq.com/s?__biz=MzUzODg2MTU1OQ==&mid=2247517444&amp;idx=1&amp;sn=c4f44fc58a4ea22c90dcc4b37257cd41&source=41#wechat_redirect)
-<br/>
 - [运营眼中的产品观](https://mp.weixin.qq.com/s/aWd8VNZDEvmbC2up3ByoTA?)
-<br/>
 - [盒马鲜生何以成为零售“新物种”？创始人侯毅亲述三项秘诀](https://mp.weixin.qq.com/s/nbP_CoWhowQyvBWvbuqoJA)
-<br/>
 
 ## 用户运营
 --------
