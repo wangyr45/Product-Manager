@@ -1,6 +1,6 @@
 # 运营 
 
-
+[【经验】一场裂变活动的小小总结](https://mp.weixin.qq.com/s/JeYhWADzRTFEzZh8wuuKZw)
 
 ## 运营体系
 ---------
