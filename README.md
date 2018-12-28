@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<center>
 
 | 仓库内容分类 |
 | :------: |
@@ -19,4 +19,4 @@
 | [市场营销](https://github.com/wangyr45/Product-Manager/blob/master/Study%20notes/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80.md) |
 
 
-</div>
+</center>
