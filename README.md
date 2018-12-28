@@ -8,7 +8,7 @@
 
 | 仓库内容分类 |
 | :------: |
-| [社区分类文章](https://github.com/wangyr45/Product-Manager/tree/master/Classification%20of%20articles) |
+| [:rabbit 社区分类文章](https://github.com/wangyr45/Product-Manager/tree/master/Classification%20of%20articles) |
 | [产品学习笔记](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Study%20notes/Menu.md) |
 | [读书笔记](https://github.com/wangyr45/Product-Manager/tree/master/Reading%20Notes) |
 | [运营文章](https://github.com/wangyr45/Product-Manager/blob/master/Operation.md) |
