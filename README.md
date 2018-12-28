@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-
+<div align="center">
 
 | 仓库内容分类 |
 | :------: |
@@ -17,3 +17,6 @@
 | :sheep: [心理学文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/psychology.md) |
 | [人物传记](https://github.com/wangyr45/Product-Manager/blob/master/Product/biography.md) |
 | [市场营销](https://github.com/wangyr45/Product-Manager/blob/master/Study%20notes/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80.md) |
+
+
+</div>
