@@ -10,7 +10,7 @@
 | :------: |
 | [:rabbit: 社区分类文章](https://github.com/wangyr45/Product-Manager/tree/master/Classification%20of%20articles) |
 | [:feet: 产品学习笔记](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Study%20notes/Menu.md) |
-| [读书笔记](https://github.com/wangyr45/Product-Manager/tree/master/Reading%20Notes) |
+| [:book: 读书笔记](https://github.com/wangyr45/Product-Manager/tree/master/Reading%20Notes) |
 | [运营文章](https://github.com/wangyr45/Product-Manager/blob/master/Operation.md) |
 | [文档模板工具](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Document/document.md) |
 | [设计类文章](https://github.com/wangyr45/Good-article-in-the-product-manager-community/blob/master/Design.md) |
