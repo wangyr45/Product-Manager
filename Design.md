@@ -41,5 +41,8 @@
 -[情感化设计在产品中的应用](https://zhuanlan.zhihu.com/p/43860100)
 <br/>
 
+-[一文读懂：如何建立UI设计规范](https://coffee.pmcaff.com/article/1624452109122688/pmcaff?utm_source=forum&from=selection)
+<br/>
+
 
 
